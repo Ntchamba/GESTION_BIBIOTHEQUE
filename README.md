@@ -4,21 +4,71 @@ Application en console(CLI) de gestion d'une biblitheque .afin de remedier aux d
 des emprunts ,de l'ajout ,de la suppression de nouveaux livres , des recherches de livre , la location des espaces de travail tout cela  dans une bibliotheque.
 
 ## Membres et participation
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 membres             |      role                         | nom
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+
+
+
+
+
+
+
 membre1             |la classe salle                    |  Lapobe Zacharie
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+
 membre2             |la class emprunt et location_salle |  Nembe Denise
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+
+
+
+
 membre3             |la class Catalogue                 | Oumate Alim 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+
+
+
+
+
 membre4             |la classe Bibliotheque et livre    | umarou hamid
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+
+
+
+
 membre5             |la classe Client                   | steve jorel
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+
 membre6             |la class Main                      | ntchamba alan
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 ## Acknowledgements
