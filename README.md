@@ -25,9 +25,9 @@ membre6             |la class Main                      | ntchamba alan
 
 
 ## Acknowledgements
-  A l'attention des membres :
-  -<List> : fait juste reference au type ArrayList
-   
+##  A l'attention des membres :
+  -List : fait juste reference au type ArrayList
+   ## on ajoutera davantage de methode au fur et a mesure, le travail sera dynamique pas statique .
  modelisation UML:
  Diagramme des classes
 
